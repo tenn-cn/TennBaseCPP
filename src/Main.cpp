@@ -1,0 +1,6 @@
+#include "IBTree.h"
+
+int main()
+{
+    return 0;
+}
